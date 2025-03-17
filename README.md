@@ -1,6 +1,8 @@
-**Uvindu28/Uvindu28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there
 
-Here are some ideas to get you started:
+<picture>
+  <img align="right" src="https://camo.githubusercontent.com/24a2cbaa12decb1777911cfb99bc23971d8a1edbe9ddd08a4a5183edd49d7474/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f70726f6772616d6d696e672d737469636b2d6669677572652d676f696e672d6372617a792d6f6e2d666972652d6a36696934706a75397864746e7362722e676966" width="250px">
+</picture>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
